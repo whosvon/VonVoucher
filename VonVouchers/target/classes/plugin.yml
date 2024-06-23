@@ -1,0 +1,14 @@
+name: VonVouchers
+version: 1.0
+main: com.whosvon.vouchers.vv.VonVouchers
+api-version: 1.16
+commands:
+  vonvoucher:
+    description: Manage vouchers
+    usage: /vonvoucher <command>
+    aliases: [voucher]
+    permission: vonvoucher.use
+permissions:
+  vonvoucher.use:
+    description: Allows use of vonvoucher commands
+    default: false
