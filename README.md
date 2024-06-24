@@ -1,1 +1,1 @@
-simple voucher plugin for 1.20.4
+create custom vouchers
